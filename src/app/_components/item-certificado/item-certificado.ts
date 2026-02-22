@@ -7,6 +7,6 @@ import { SecondaryButton } from "../secondary-button/secondary-button";
   templateUrl: './item-certificado.html',
   styleUrl: './item-certificado.css',
 })
-export class IntemCertificado {
+export class ItemCertificado {
 
 }
